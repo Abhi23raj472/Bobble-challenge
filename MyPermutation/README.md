@@ -1,4 +1,4 @@
-Instructions for running the java executable
+# Instructions for running the java executable
 on the command line paste:
 java executable path-to-csv
 optional- the name of the file is MyPermutations.java, so the first command would be javac /path-to-java-file/MyPermutations.java
